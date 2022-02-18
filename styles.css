@@ -1,0 +1,45 @@
+body{
+  background-color: #ACB992;
+  text-align: center;
+  color: #464E2E;
+}
+
+.veg-image{
+  width: 10%;
+  transform: rotate(-90deg);
+  }
+
+.carrot{
+  border-radius: 100%;
+  width: 20%;
+  margin-left: 400px;
+  margin-top: 2%;
+  float: left;
+}
+
+.paragraph{
+  margin-top: 3%;
+  margin-right: 200px;
+  line-height: 1;
+  font-size: 2rem;
+}
+
+.tomato{
+  border-radius: 100%;
+  width: 20%;
+  margin-left: 400px;
+  float: left;
+
+}
+hr {
+
+  border-style: none;
+  border-top-style: dashed;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+
+.C{
+  padding: 7%;
+}
